@@ -1,0 +1,10 @@
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\bin\Debug\teht_5_for.exe.config
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\bin\Debug\teht_5_for.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\bin\Debug\teht_5_for.pdb
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.csprojAssemblyReference.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.PaaForms.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.Properties.Resources.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.csproj.GenerateResource.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 5\teht_5_for\teht_5_for\obj\Debug\teht_5_for.pdb

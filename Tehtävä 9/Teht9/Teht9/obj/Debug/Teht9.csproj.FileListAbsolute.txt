@@ -1,0 +1,10 @@
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\bin\Debug\Teht9.exe.config
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\bin\Debug\Teht9.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\bin\Debug\Teht9.pdb
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.csprojAssemblyReference.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.Form1.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.Properties.Resources.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.csproj.GenerateResource.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 9\Teht9\Teht9\obj\Debug\Teht9.pdb

@@ -1,0 +1,10 @@
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\bin\Debug\teht11_2.0.exe.config
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\bin\Debug\teht11_2.0.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\bin\Debug\teht11_2.0.pdb
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2.0.csprojAssemblyReference.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2._0.Form1.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2._0.Properties.Resources.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2.0.csproj.GenerateResource.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2.0.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\teht11_2.0\teht11_2.0\obj\Debug\teht11_2.0.pdb

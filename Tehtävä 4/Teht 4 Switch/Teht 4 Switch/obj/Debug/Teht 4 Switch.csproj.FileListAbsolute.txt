@@ -1,0 +1,10 @@
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\bin\Debug\Teht 4 Switch.exe.config
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\bin\Debug\Teht 4 Switch.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\bin\Debug\Teht 4 Switch.pdb
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht 4 Switch.csprojAssemblyReference.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht_4_Switch.PaaForms.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht_4_Switch.Properties.Resources.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht 4 Switch.csproj.GenerateResource.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht 4 Switch.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht 4 Switch.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 4\Teht 4 Switch\Teht 4 Switch\obj\Debug\Teht 4 Switch.pdb

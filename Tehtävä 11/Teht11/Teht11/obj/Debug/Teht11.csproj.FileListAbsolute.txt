@@ -1,0 +1,10 @@
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.csprojAssemblyReference.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.Form1.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.Properties.Resources.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.csproj.GenerateResource.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\bin\Debug\Teht11.exe.config
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\bin\Debug\Teht11.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\bin\Debug\Teht11.pdb
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 11\Teht11\Teht11\obj\Debug\Teht11.pdb

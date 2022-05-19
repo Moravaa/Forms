@@ -1,0 +1,10 @@
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\bin\Debug\Tehtävä 8.exe.config
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\bin\Debug\Tehtävä 8.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\bin\Debug\Tehtävä 8.pdb
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä 8.csprojAssemblyReference.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä_8.Form1.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä_8.Properties.Resources.resources
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä 8.csproj.GenerateResource.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä 8.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä 8.exe
+C:\Users\Veeti\OneDrive\Käyttöliittymä\Tehtävä 8\Tehtävä 8\Tehtävä 8\obj\Debug\Tehtävä 8.pdb
